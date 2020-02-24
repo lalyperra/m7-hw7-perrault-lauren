@@ -23,5 +23,23 @@ html {
 body {
    font-family: 'Oswald', sans-serif;
    text-align: center;
-   text-transform: uppercase;
+   margin: 25px;
+}
+
+h1 {
+  font-size: 2em;
+  color: blue;
+}
+
+h2 {
+  font-size: 1em;
+  color: orange;
+}
+
+p {
+  font-size: 1.25em;
+}
+
+section {
+  margin: 50px;
 }
